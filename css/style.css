@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    font-size: 18px;
+}
+
+.menu {
+    width: 100%;
+    background-color: red;
+    color: black;
+}
+
+.main {
+    width: 100%;
+    background-color: blueviolet;
+    color: black;
+    display: flex;
+    min-height: 400px;
+}
+
+.sliderbar {
+    width: 30%;
+    background-color: aqua;
+}
+
+.main {
+    width: 70%;
+    background-color: aquamarine;
+}
+
+.footer {
+    width: 100%;
+    background-color: burlywood;
+    min-height: 40px;
+    color: black;
+}
